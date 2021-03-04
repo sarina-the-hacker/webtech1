@@ -3,3 +3,5 @@ Test-Repo für das Minor
 Hier testen wir heute.
 
 Mein erstes Commit.
+
+Mein zweiter Commit
